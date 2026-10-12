@@ -1,6 +1,6 @@
 Aryan — Data Analyst
 Detail-oriented and self-driven Data Analyst with hands-on experience turning raw data into clear insights, dashboards, and executive-ready reports using Excel, Power BI, SQL, and Python. Comfortable collecting data from multiple sources, building structured analytical workflows, and communicating findings to both technical and non-technical audiences.
-
+![image alt](https://github.com/aryanx9934/aryan.github.io/blob/66ab7accd1940f4d8f8a3d28c44ef90ee66a9550/new.jpeg)
 🧭 Core Strengths
 Excel & Dashboards — Proficient in Excel-based analysis and reporting, plus Power BI and Tableau dashboard development for executive-level summaries.
 
